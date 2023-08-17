@@ -1,6 +1,6 @@
 # BhaktiBOT
 
-![facebook_cover_photo_1](https://github.com/nnish14/CCITask1/assets/121371298/de34c11d-57e5-4e71-a5b5-eb1035357382)
+![logo](https://github.com/nnish14/CCITask1/assets/121371298/095ba5ed-fc66-4d16-a009-184236ae6598)
 
 I present to you the BhaktiBOT! Your personalised _Dharmic_ Assistant
 
